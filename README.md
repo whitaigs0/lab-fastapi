@@ -1,0 +1,2 @@
+# lab-fastapi
+fastapi project
